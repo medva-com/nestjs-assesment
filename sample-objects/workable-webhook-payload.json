@@ -1,0 +1,65 @@
+{
+  "id": "candidate_12345",
+  "name": "Jane Doe",
+  "firstname": "Jane",
+  "lastname": "Doe",
+  "headline": "Senior Software Engineer with 10 years of experience",
+  "image_url": "https://example.com/images/jane_doe.jpg",
+  "account": {
+    "subdomain": "techcorp",
+    "name": "TechCorp"
+  },
+  "job": {
+    "shortcode": "SE987",
+    "title": "Senior Software Engineer"
+  },
+  "stage": "Interview",
+  "disqualified": false,
+  "sourced": true,
+  "profile_url": "https://example.com/candidates/jane_doe",
+  "address": "123 Tech Lane, Techville, TX, 78701",
+  "phone": "+11234567890",
+  "email": "jane.doe@example.com",
+  "domain": "linkedin.com",
+  "uploader_id": "recruiter_789",
+  "created_at": "2023-01-10T15:00:00Z",
+  "updated_at": "2023-01-15T15:00:00Z",
+  "cover_letter": "I am passionate about software development and look forward to contributing to TechCorp.",
+  "summary": "An experienced software engineer specializing in system architecture and scalable cloud solutions.",
+  "education_entries": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "school": "Tech University",
+      "field_of_study": "Computer Science",
+      "start_date": "2010-08-01",
+      "end_date": "2012-05-30"
+    }
+  ],
+  "experience_entries": [
+    {
+      "title": "Senior Software Engineer",
+      "summary": "Developed scalable cloud solutions for finance industry.",
+      "start_date": "2018-06-01",
+      "end_date": "2023-01-01",
+      "company": "FinTech Innovations",
+      "industry": "Finance",
+      "current": true
+    }
+  ],
+  "skills": ["Cloud Computing", "System Architecture", "Agile Methodologies"],
+  "social_profiles": [
+    {
+      "type": "linkedin",
+      "name": "Jane Doe LinkedIn",
+      "url": "https://www.linkedin.com/in/jane-doe"
+    }
+  ],
+  "location": {
+    "location_str": "Techville, TX, USA",
+    "country": "United States",
+    "country_code": "US",
+    "region": "Texas",
+    "city": "Techville",
+    "zip_code": "78701"
+  }
+}
