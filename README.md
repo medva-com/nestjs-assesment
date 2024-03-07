@@ -15,6 +15,7 @@ interconnected modules within a provided NestJS boilerplate application.
 - **Module 2 (Monday Support)**: Create a module that includes a service capable of writing data back to the Monday API.
   This service should feature a function specifically for API interactions with Monday.com. You can not, and therefore
   should not, implement the entire Monday API, but rather focus on the specific functionality required for this project.
+  Since you don't have an API key you will have to fake making the API calls.
 
 These modules should be designed to work in tandem, particularly focusing on accepting a webhook payload through the
 Workable module and utilizing the Monday module to interact with the Monday API.
